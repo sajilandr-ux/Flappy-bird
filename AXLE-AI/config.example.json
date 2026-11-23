@@ -1,0 +1,6 @@
+{
+  "server_url": "http://127.0.0.1:8080/v1/chat/completions",
+  "max_tokens": 160,
+  "context_tokens_suggestion": 1024,
+  "voice_enabled_by_default": false
+}
